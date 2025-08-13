@@ -1,4 +1,6 @@
 # coursera-ai-4-medicine-specialization
+![AI AIfor Medicine Specialization Certificate](images/Specialization-Logo.png)
+
 Coursera Artificial Intelligence for Medicine Specialization (offered by deeplearning.ai)
 
 ### Scores Earned
